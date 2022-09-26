@@ -3,6 +3,6 @@ public class lepes {
         System.out.println("Vége");
         System.out.println("Lépés");
         System.out.println("Heyy");
-        System.out.println("LIKE");
+
     }
 }
